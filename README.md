@@ -13,4 +13,4 @@ Of course! Anyone is welcome to contribute. As a matter of fact, since Open Dung
 
 If you would like to officially contribute to the Open Dungeon project, you can start by opening an Issue or creating a Pull Request
 
-For more visit the [Contributing Documentation](?tab=contributing-ov-file)
+For more visit the [Contributing Documentation](https://github.com/ccioanca/OpenDungeon/tree/main?tab=contributing-ov-file)
