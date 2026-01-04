@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Open Dungeon Scratchpad.md",
+                "file": "CONTRIBUTING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open Dungeon Scratchpad"
+              "title": "CONTRIBUTING"
             }
           }
         ]
@@ -172,9 +172,9 @@
   "active": "a9b7a8e516555e77",
   "lastOpenFiles": [
     "README.md",
-    "LICENSE",
     "CONTRIBUTING.md",
-    "CODE_OF_CONDUCT.md",
-    "Open Dungeon Scratchpad.md"
+    "Open Dungeon Scratchpad.md",
+    "LICENSE",
+    "CODE_OF_CONDUCT.md"
   ]
 }
