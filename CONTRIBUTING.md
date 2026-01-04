@@ -1,1 +1,2 @@
-
+- Community driven development & ideation with veto powers from the core development team
+- The license allows for private modifications if the above is insufficient 
