@@ -3,7 +3,7 @@ id: cinematic-damage
 tags:
   - damage
   - health
-replaces: core-damage-resolution
+replaces: core-health
 priority: "100"
 ---
 ### Narrative Harm

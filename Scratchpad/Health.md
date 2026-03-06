@@ -1,5 +1,5 @@
 ---
-id: core-damage-resolution
+id: core-health
 tags:
   - damage
   - health
