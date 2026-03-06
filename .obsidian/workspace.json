@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratchpad/Manipulate Emotion.md",
+                "file": "Scratchpad/Health.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manipulate Emotion"
+              "title": "Health"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratchpad/Manipulate Emotion.md",
+                "file": "Scratchpad/Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Manipulate Emotion"
+              "title": "Backlinks for Health"
             }
           },
           {
@@ -184,9 +184,11 @@
   },
   "active": "8e7a1496bd7af66f",
   "lastOpenFiles": [
+    "Scratchpad/Wounds.md",
+    "Scratchpad/Competencies.md",
+    "Scratchpad/Manipulate Emotion.md",
     "Scratchpad/Stats.md",
     "Scratchpad/Narrative Damage.md",
-    "Scratchpad/Manipulate Emotion.md",
     "Scratchpad/Health.md",
     "Open Dungeon Scratchpad.md",
     "Untitled.base",
@@ -196,9 +198,7 @@
     "README.md",
     "CODE_OF_CONDUCT.md",
     "Scratchpad/Open Dungeon Scratchpad.md",
-    "Scratchpad/Competencies.md",
     "Images",
-    "Scratchpad/Wounds.md",
     "Scratchpad",
     "LICENSE"
   ]
