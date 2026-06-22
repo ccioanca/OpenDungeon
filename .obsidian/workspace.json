@@ -8,31 +8,59 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f513a9d8bd7c03fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratchpad/Test Module/Test Rule/_Test Rule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Test Rule"
+            }
+          },
+          {
+            "id": "945ffd8ac07ced46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratchpad/Test Module/Test Rule/_Test Rule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Test Rule"
+            }
+          },
+          {
             "id": "8e7a1496bd7af66f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratchpad/Health.md",
+                "file": "Scratchpad/Test Module/Test Rule/Test Trait 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Health"
+              "title": "Test Trait 2"
             }
           },
           {
-            "id": "f4f552036d57961b",
+            "id": "900c2b0dad1cf879",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratchpad/Stats.md",
+                "file": "Scratchpad/Test Module/Test Rule/Test Trait.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stats"
+              "title": "Test Trait"
             }
           }
         ]
@@ -108,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratchpad/Health.md",
+                "file": "Scratchpad/Test Module/Test Rule/_Test Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Health"
+              "title": "Backlinks for _Test Rule"
             }
           },
           {
@@ -156,16 +184,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Open Dungeon Scratchpad.md",
+                "file": "Scratchpad/Test Module/Test Rule/_Test Rule.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Open Dungeon Scratchpad"
+              "title": "Outline of _Test Rule"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,22 +211,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e7a1496bd7af66f",
+  "active": "f513a9d8bd7c03fd",
   "lastOpenFiles": [
-    "Scratchpad/Wounds.md",
-    "Scratchpad/Competencies.md",
-    "Scratchpad/Manipulate Emotion.md",
-    "Scratchpad/Stats.md",
-    "Scratchpad/Narrative Damage.md",
+    "Scratchpad/Open Dungeon Scratchpad.md",
+    "Scratchpad/Test Module/Test Rule/_Test Rule.md",
+    "Scratchpad/Test Module/_Test Module.md",
+    "Scratchpad/Test Module/Test Rule/Test Trait.md",
+    "Scratchpad/Untitled",
+    "Scratchpad/Test Module/Test Rule 2",
+    "GLOSSARY.md",
+    "Scratchpad/Test Module/Test Rule/Test Trait 2.md",
     "Scratchpad/Health.md",
-    "Open Dungeon Scratchpad.md",
+    "Scratchpad/Competencies.md",
+    "Scratchpad/Stats.md",
+    "Scratchpad/Test Module/Test Rule",
+    "Scratchpad/Test Module",
+    "CONTRIBUTING.md",
+    "Core",
+    "Scratchpad/Manipulate Emotion.md",
+    "Scratchpad/Wounds.md",
+    "Scratchpad/Narrative Damage.md",
     "Untitled.base",
     "Untitled.canvas",
     "Images/Pasted image 20260221104222.png",
-    "CONTRIBUTING.md",
     "README.md",
     "CODE_OF_CONDUCT.md",
-    "Scratchpad/Open Dungeon Scratchpad.md",
     "Images",
     "Scratchpad",
     "LICENSE"
