@@ -1,0 +1,4 @@
+# Obsidian Specific
+# Ignore volatile UI-related state
+.obsidian/workspace.json
+.obsidian/app.json
